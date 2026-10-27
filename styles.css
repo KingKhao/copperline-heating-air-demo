@@ -27,3 +27,4 @@
 @media(max-width:1000px) and (min-width:761px){.hero h1{font-size:clamp(56px,7.6vw,78px)}.service-art{margin-inline:-28px}}
 @media(max-width:760px){.service-art{height:160px;margin-inline:-25px}.comfort-band{grid-template-columns:1fr}.comfort-band>img{height:240px;border-radius:100px 8px 8px 8px}.brand small{font-size:13px;letter-spacing:.04em}.hero-foot{font-size:13px}.demo-note{font-size:13px}.site-footer{padding-bottom:40px}}
 @media(min-width:761px) and (max-width:1000px){.comfort-band{grid-template-columns:1fr 1.4fr}.comfort-band>div{grid-column:2}.comfort-band p{font-size:40px}}
+@media(max-width:1000px){.site-header nav{display:none}}
