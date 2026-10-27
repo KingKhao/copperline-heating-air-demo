@@ -1,0 +1,5 @@
+.taste-skill/
+.playwright-cli/
+.vercel/
+node_modules/
+assets/*-source.png

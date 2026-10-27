@@ -1,0 +1,7 @@
+.git
+.taste-skill
+.playwright-cli
+node_modules
+assets/*-source.png
+README.md
+CREDITS.md
