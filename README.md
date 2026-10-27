@@ -2,7 +2,9 @@
 
 A rebuilt fictional Phoenix HVAC website concept for Clinch Valley Digital. This is a separate project from KingKhao/copperline-demo, whose checked main commit dde4f47 contains Copperline Plumbing & Electric in Rogersville. That source and the CVD portfolio were not modified.
 
-Status: local review build, not deployed over the existing copperline-demo.vercel.app URL. Local preview http://127.0.0.1:43830/ . No paid hosting, account setup or payment service needed.
+Published October 27, 2026. Live site: https://copperline-heating-air-demo.vercel.app/ . Public source: https://github.com/KingKhao/copperline-heating-air-demo . GitHub main is connected to the separate Vercel project. The existing Copperline live sites were not replaced. No payment service or backend is used.
+
+Production verification: public HTTP 200, noindex and CSP headers present; service selection carries into the request form; the local-only confirmation/reset works with zero non-GET requests and no page errors.
 
 Static HTML/CSS/vanilla JS, no dependencies or build step. Preview through a local HTTP server. Three generated editorial images are included as optimized WebP assets; no runtime image generation. Fonts have system fallbacks.
 
