@@ -5,3 +5,6 @@ node_modules
 assets/*-source.png
 README.md
 CREDITS.md
+
+.env*
+.vercel

@@ -3,3 +3,7 @@
 .vercel/
 node_modules/
 assets/*-source.png
+.vercel
+.env*
+
+.env*
